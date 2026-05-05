@@ -1,4 +1,4 @@
-/* CSS AMERICANAS */
+/* CSS AMERICANAS 
 #topo {
     background: red;
 }
@@ -9,4 +9,21 @@
 
 .destaque {
     background-color: crimson;
+}
+*/
+
+#topo {
+    background: yellow;
+}
+
+#rodape {
+    border: 5px solid lightgray;
+}
+
+.curso {
+    background: gray;
+}
+
+.curso-destaque {
+    background: orange;
 }
